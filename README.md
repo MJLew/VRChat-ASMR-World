@@ -11,4 +11,4 @@ UdonSharp (https://github.com/vrchat-community/UdonSharp)
 ProBuilder
 ProGrids
 
-Used the following assets:
+Imported the following assets:
