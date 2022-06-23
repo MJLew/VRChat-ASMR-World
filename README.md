@@ -10,5 +10,6 @@ VRChat SDK3 - Worlds (https://vrchat.com/home/download)
 UdonSharp (https://github.com/vrchat-community/UdonSharp)
 ProBuilder
 ProGrids
+VRWorldToolkit (https://github.com/oneVR/VRWorldToolkit)
 
 Used the following assets:
