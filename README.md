@@ -11,3 +11,6 @@ Used the following packages/plugins/SDKs:
 - ProGrids
 
 Imported the following assets:
+- Cabin walls + ceiling: https://ambientcg.com/view?id=WoodFloor042
+- Cabin floor: https://ambientcg.com/view?id=WoodFloor034
+- Cabin window frames: https://ambientcg.com/view?id=Wood079
