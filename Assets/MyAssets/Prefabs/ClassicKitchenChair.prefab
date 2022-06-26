@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1468277901889976823}
   - component: {fileID: 7577996368560728687}
   m_Layer: 17
-  m_Name: ClassicKitchenChair3
+  m_Name: ClassicKitchenChair
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -119,21 +119,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1350032267753345932, guid: 75c11f3ce11d0684f81b2a3a953cde26,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.015625
-      objectReference: {fileID: 0}
-    - target: {fileID: 1350032267753345932, guid: 75c11f3ce11d0684f81b2a3a953cde26,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1350032267753345932, guid: 75c11f3ce11d0684f81b2a3a953cde26,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.21875
       objectReference: {fileID: 0}
     - target: {fileID: 1350032267753345932, guid: 75c11f3ce11d0684f81b2a3a953cde26,
         type: 3}
