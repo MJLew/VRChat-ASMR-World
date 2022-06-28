@@ -11,9 +11,10 @@ Used the following plugins/SDKs:
 - ProGrids
 
 Imported the following assets:
-- Cabin walls + ceiling: https://ambientcg.com/view?id=WoodFloor042
-- Cabin floor: https://ambientcg.com/view?id=WoodFloor034
-- Cabin window frames: https://ambientcg.com/view?id=Wood079
+- Wood Textures for Cabin walls + ceiling: https://ambientcg.com/view?id=WoodFloor042
+- Wood Textures for Cabin floor: https://ambientcg.com/view?id=WoodFloor034
+- Wood Textures for Cabin window frames: https://ambientcg.com/view?id=Wood079
 - AllSky Skybox Set: https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014#description
 - Table with Chairs: https://assetstore.unity.com/packages/3d/props/furniture/table-with-chairs-x3-free-101246#description
 - Satara Night HDRI: https://polyhaven.com/a/satara_night_no_lamps
+- Classic Interior Door Pack: https://assetstore.unity.com/packages/3d/props/interior/classic-interior-door-pack-1-118744#description
