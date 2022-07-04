@@ -19,3 +19,5 @@ Imported the following assets:
 - Satara Night HDRI: https://polyhaven.com/a/satara_night_no_lamps
 - Classic Interior Door Pack: https://assetstore.unity.com/packages/3d/props/interior/classic-interior-door-pack-1-118744#description
 - USharp Video Player: https://github.com/MerlinVR/USharpVideo/releases/tag/v1.0.0
+- Furniture Free Pack: https://assetstore.unity.com/packages/3d/props/furniture/furniture-free-pack-192628#description
+- Rug Pack: https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178#description

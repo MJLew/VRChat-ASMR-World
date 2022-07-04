@@ -18,3 +18,4 @@ Imported the following assets:
 - Table with Chairs: https://assetstore.unity.com/packages/3d/props/furniture/table-with-chairs-x3-free-101246#description
 - Satara Night HDRI: https://polyhaven.com/a/satara_night_no_lamps
 - Classic Interior Door Pack: https://assetstore.unity.com/packages/3d/props/interior/classic-interior-door-pack-1-118744#description
+- USharp Video Player: https://github.com/MerlinVR/USharpVideo/releases/tag/v1.0.0
