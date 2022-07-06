@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1126 &-6467591094413563959
+--- !u!1126 &-8068183935900347457
 PackedAssets:
   m_File: 2
   m_ShortPath: BuildPlayer-StartingScene.resource
@@ -26,152 +26,11 @@ PackedAssets:
     buildTimeAssetPath: Assets/Imported/Sound Effects/178433_thavis360_writing-with-chalk-chalkboard.wav
   - fileID: 0
     classID: 83
-    packedSize: 3470656
+    packedSize: 3415296
     offset: 0
-    sourceAssetGUID: 6c8ff37c814e0bc4da242f4bc6476d0c
-    buildTimeAssetPath: Assets/Imported/Sound Effects/588335_iainmccurdy_turning-pages.wav
---- !u!668709126 &-5148530675086708343
-BuiltAssetBundleInfoSet:
-  bundleInfos:
-  - bundleName: scene-standalonewindows64-startingscene.vrcw
-    bundleArchiveFile: 3
-    packagedFileIndices: 000000000100000002000000
-  - bundleName: VRChat ASMR World
-    bundleArchiveFile: 6
-    packagedFileIndices: 05000000
---- !u!641289076 &-277526582476282489
-AudioBuildInfo:
-  m_IsAudioDisabled: 0
-  m_AudioClipCount: 4
-  m_AudioMixerCount: 0
---- !u!1125 &1
-BuildReport:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: LastWindowsBuild
-  m_Summary:
-    buildStartTime:
-      serializedVersion: 2
-      ticks: 637927283550464678
-    buildGUID: 00000000000000000000000000000000
-    platformName: Win64
-    platformGroupName: Standalone
-    options: 16
-    assetBundleOptions: 32
-    outputPath: C:/Users/Michael/AppData/Local/Temp/DefaultCompany/VRChat ASMR World/scene-standalonewindows64-startingscene.vrcw
-    crc: 399798028
-    totalSize: 27407947
-    totalTimeTicks: 127507056
-    totalErrors: 0
-    totalWarnings: 0
-    buildType: 1
-    buildResult: 1
-  m_Files:
-  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/scene-standalonewindows64-startingscene.vrcw/BuildPlayer-StartingScene
-    role: Scene
-    id: 0
-    totalSize: 419132
-  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/scene-standalonewindows64-startingscene.vrcw/BuildPlayer-StartingScene.sharedAssets
-    role: SharedAssets
-    id: 1
-    totalSize: 39865456
-  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/scene-standalonewindows64-startingscene.vrcw/BuildPlayer-StartingScene.resource
-    role: StreamingResourceFile
-    id: 2
-    totalSize: 5545280
-  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/scene-standalonewindows64-startingscene.vrcw
-    role: AssetBundle
-    id: 3
-    totalSize: 27401547
-  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/scene-standalonewindows64-startingscene.vrcw.manifest
-    role: AssetBundleTextManifest
-    id: 4
-    totalSize: 5174
-  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/VRChat ASMR World/CAB-8874e139a93b6267dfa5b21fd24b3713
-    role: ResourcesFile
-    id: 5
-    totalSize: 4312
-  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/VRChat ASMR World
-    role: ManifestAssetBundle
-    id: 6
-    totalSize: 1054
-  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/VRChat ASMR World.manifest
-    role: AssetBundleTextManifest
-    id: 7
-    totalSize: 172
-  m_BuildSteps:
-  - stepName: Build Asset Bundles
-    durationTicks: 127507056
-    depth: 0
-    messages: []
-  - stepName: Calculate asset bundles to be built
-    durationTicks: 93395
-    depth: 1
-    messages: []
-  - stepName: Compile scripts
-    durationTicks: 17404358
-    depth: 1
-    messages: []
-  - stepName: Build player
-    durationTicks: 76988666
-    depth: 1
-    messages: []
-  - stepName: Prepare assets for target platform
-    durationTicks: 1050178
-    depth: 2
-    messages: []
-  - stepName: Building scenes
-    durationTicks: 5339136
-    depth: 2
-    messages: []
-  - stepName: Building scene Assets/Scenes/StartingScene.unity
-    durationTicks: 5328274
-    depth: 3
-    messages: []
-  - stepName: Writing asset files
-    durationTicks: 22407674
-    depth: 2
-    messages: []
-  - stepName: Packaging assets - archive:/BuildPlayer-StartingScene/BuildPlayer-StartingScene.sharedAssets
-    durationTicks: 22375902
-    depth: 3
-    messages: []
-  - stepName: Creating compressed player package
-    durationTicks: 38648553
-    depth: 2
-    messages: []
-  - stepName: Postprocess built player
-    durationTicks: 27054
-    depth: 2
-    messages: []
-  m_Appendices:
-  - {fileID: -5148530675086708343}
-  - {fileID: 8056504627936407300}
-  - {fileID: -6467591094413563959}
-  - {fileID: 8049979734149114320}
-  - {fileID: -277526582476282489}
-  - {fileID: 7030093265717535200}
---- !u!1126 &7030093265717535200
-PackedAssets:
-  m_File: 5
-  m_ShortPath: CAB-8874e139a93b6267dfa5b21fd24b3713
-  m_Overhead: 4096
-  m_Contents:
-  - fileID: 1
-    classID: 142
-    packedSize: 104
-    offset: 4096
-    sourceAssetGUID: 00000000000000000000000000000000
-    buildTimeAssetPath: AssetBundle Object
-  - fileID: 2
-    classID: 290
-    packedSize: 112
-    offset: 4200
-    sourceAssetGUID: 00000000000000000000000000000000
-    buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
---- !u!382020655 &8049979734149114320
+    sourceAssetGUID: f44d03dbca63df44f96cdfa20db938f5
+    buildTimeAssetPath: Assets/Imported/Sound Effects/588335_iainmccurdy_turning-pages.mp3
+--- !u!382020655 &-5645127406110445911
 PluginBuildInfo:
   m_RuntimePlugins:
   - Unity.Burst.Unsafe
@@ -220,11 +79,147 @@ PluginBuildInfo:
   - zlib64Plastic
   - Unity.Plastic.Antlr3.Runtime
   - lz4x64Plastic
---- !u!1126 &8056504627936407300
+--- !u!1126 &-4818195771571637150
+PackedAssets:
+  m_File: 5
+  m_ShortPath: CAB-8874e139a93b6267dfa5b21fd24b3713
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 142
+    packedSize: 104
+    offset: 4096
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: AssetBundle Object
+  - fileID: 2
+    classID: 290
+    packedSize: 112
+    offset: 4200
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
+--- !u!668709126 &-3891676786252986442
+BuiltAssetBundleInfoSet:
+  bundleInfos:
+  - bundleName: scene-standalonewindows64-startingscene.vrcw
+    bundleArchiveFile: 3
+    packagedFileIndices: 000000000100000002000000
+  - bundleName: VRChat ASMR World
+    bundleArchiveFile: 6
+    packagedFileIndices: 05000000
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LastWindowsBuild
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 637927328053900273
+    buildGUID: 00000000000000000000000000000000
+    platformName: Win64
+    platformGroupName: Standalone
+    options: 16
+    assetBundleOptions: 32
+    outputPath: C:/Users/Michael/AppData/Local/Temp/DefaultCompany/VRChat ASMR World/scene-standalonewindows64-startingscene.vrcw
+    crc: 2621374684
+    totalSize: 26565279
+    totalTimeTicks: 125312289
+    totalErrors: 0
+    totalWarnings: 0
+    buildType: 1
+    buildResult: 1
+  m_Files:
+  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/scene-standalonewindows64-startingscene.vrcw/BuildPlayer-StartingScene
+    role: Scene
+    id: 0
+    totalSize: 419188
+  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/scene-standalonewindows64-startingscene.vrcw/BuildPlayer-StartingScene.sharedAssets
+    role: SharedAssets
+    id: 1
+    totalSize: 37682800
+  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/scene-standalonewindows64-startingscene.vrcw/BuildPlayer-StartingScene.resource
+    role: StreamingResourceFile
+    id: 2
+    totalSize: 5489920
+  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/scene-standalonewindows64-startingscene.vrcw
+    role: AssetBundle
+    id: 3
+    totalSize: 26558876
+  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/scene-standalonewindows64-startingscene.vrcw.manifest
+    role: AssetBundleTextManifest
+    id: 4
+    totalSize: 5175
+  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/VRChat ASMR World/CAB-8874e139a93b6267dfa5b21fd24b3713
+    role: ResourcesFile
+    id: 5
+    totalSize: 4312
+  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/VRChat ASMR World
+    role: ManifestAssetBundle
+    id: 6
+    totalSize: 1056
+  - path: C:/Users/Michael/Dev Projects/Unity/VRChat ASMR World/VRChat ASMR World.manifest
+    role: AssetBundleTextManifest
+    id: 7
+    totalSize: 172
+  m_BuildSteps:
+  - stepName: Build Asset Bundles
+    durationTicks: 125312289
+    depth: 0
+    messages: []
+  - stepName: Calculate asset bundles to be built
+    durationTicks: 53086
+    depth: 1
+    messages: []
+  - stepName: Compile scripts
+    durationTicks: 16667159
+    depth: 1
+    messages: []
+  - stepName: Build player
+    durationTicks: 74346020
+    depth: 1
+    messages: []
+  - stepName: Prepare assets for target platform
+    durationTicks: 1036666
+    depth: 2
+    messages: []
+  - stepName: Building scenes
+    durationTicks: 5219832
+    depth: 2
+    messages: []
+  - stepName: Building scene Assets/Scenes/StartingScene.unity
+    durationTicks: 5209335
+    depth: 3
+    messages: []
+  - stepName: Writing asset files
+    durationTicks: 23264286
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - archive:/BuildPlayer-StartingScene/BuildPlayer-StartingScene.sharedAssets
+    durationTicks: 23231135
+    depth: 3
+    messages: []
+  - stepName: Creating compressed player package
+    durationTicks: 35123502
+    depth: 2
+    messages: []
+  - stepName: Postprocess built player
+    durationTicks: 63895
+    depth: 2
+    messages: []
+  m_Appendices:
+  - {fileID: -3891676786252986442}
+  - {fileID: 1442057705504242944}
+  - {fileID: -8068183935900347457}
+  - {fileID: -5645127406110445911}
+  - {fileID: 6341641535737481717}
+  - {fileID: -4818195771571637150}
+--- !u!1126 &1442057705504242944
 PackedAssets:
   m_File: 1
   m_ShortPath: BuildPlayer-StartingScene.sharedAssets
-  m_Overhead: 147587
+  m_Overhead: 147559
   m_Contents:
   - fileID: 1
     classID: 150
@@ -414,1308 +409,1308 @@ PackedAssets:
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 32
     classID: 28
-    packedSize: 699188
+    packedSize: 139536
     offset: 212584
     sourceAssetGUID: 012084bc83d168f4b907c91df1d27d6a
     buildTimeAssetPath: Assets/Imported/Materials/WoodFloor034_1K-PNG/WoodFloor034_1K_Roughness.png
   - fileID: 33
     classID: 28
     packedSize: 4204
-    offset: 911776
+    offset: 352120
     sourceAssetGUID: 02c0a84bd64c6f044954d8bde9b46ec8
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_28.png
   - fileID: 34
     classID: 28
     packedSize: 141396
-    offset: 915984
+    offset: 356328
     sourceAssetGUID: 0537723c27ace62489d52bc2a66314fc
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Textures/MetalTable_BaseColor.tga
   - fileID: 35
     classID: 28
     packedSize: 349660
-    offset: 1057384
+    offset: 497728
     sourceAssetGUID: 062a26ce01cb86642a4a5e558355d208
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/PauseIcon.png
   - fileID: 36
     classID: 28
     packedSize: 4204
-    offset: 1407048
+    offset: 847392
     sourceAssetGUID: 09f6c01f98a3ded4daf1afc52a3c260f
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_26.png
   - fileID: 37
     classID: 28
     packedSize: 4204
-    offset: 1411256
+    offset: 851600
     sourceAssetGUID: 0a79c155edf9b2d429d4736abee5acdb
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_35.png
   - fileID: 38
     classID: 28
     packedSize: 349664
-    offset: 1415464
+    offset: 855808
     sourceAssetGUID: 0b57367304e0c224fab0e9eef953ee44
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeHighIcon.png
   - fileID: 39
     classID: 28
     packedSize: 65644
-    offset: 1765128
+    offset: 1205472
     sourceAssetGUID: 0f8fa14b3731cda4e947062e734d5e1e
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_1.png
   - fileID: 40
     classID: 28
     packedSize: 4204
-    offset: 1830776
+    offset: 1271120
     sourceAssetGUID: 0fa10b21877c61b4db40ba5708815f81
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_30.png
   - fileID: 41
     classID: 28
     packedSize: 337696
-    offset: 1834984
+    offset: 1275328
     sourceAssetGUID: 102e86789376c47458221aca3537ac50
     buildTimeAssetPath: Assets/Imported/Models/Kitchen table with chair/Textures/ClassicRoundTable1_n.png
   - fileID: 42
     classID: 28
     packedSize: 80812
-    offset: 2172680
+    offset: 1613024
     sourceAssetGUID: 10d59c8c6e075664fb48744c85dab035
     buildTimeAssetPath: Assets/Imported/Materials/WoodFloor042_1K-PNG/WoodFloor042_1K_Color.png
   - fileID: 43
     classID: 28
     packedSize: 4204
-    offset: 2253496
+    offset: 1693840
     sourceAssetGUID: 119591e0bb084e848835d237546b3882
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_61.png
   - fileID: 44
     classID: 28
     packedSize: 4204
-    offset: 2257704
+    offset: 1698048
     sourceAssetGUID: 1378a33cdd085d64c9da863d2484ff21
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_47.png
   - fileID: 45
     classID: 28
     packedSize: 4204
-    offset: 2261912
+    offset: 1702256
     sourceAssetGUID: 153f7d6dfbe713d4884df0f1e243ba92
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_16.png
   - fileID: 46
     classID: 28
     packedSize: 4204
-    offset: 2266120
+    offset: 1706464
     sourceAssetGUID: 15e54aa23a938444389469d53765d741
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_44.png
   - fileID: 47
     classID: 28
     packedSize: 198812
-    offset: 2270328
+    offset: 1710672
     sourceAssetGUID: 17e50508efa829a42808f6f182b32926
     buildTimeAssetPath: Assets/Imported/Materials/Wood079_1K-PNG/Wood079_1K_Displacement.png
   - fileID: 48
     classID: 28
     packedSize: 71760
-    offset: 2469144
+    offset: 1909488
     sourceAssetGUID: 1a0e46f0583d415448274439b9ae8eb5
     buildTimeAssetPath: Assets/Imported/Models/Azerilo/Free Rug Pack/Material/rugTexture3.png
   - fileID: 49
     classID: 28
     packedSize: 4204
-    offset: 2540904
+    offset: 1981248
     sourceAssetGUID: 1a9ce5640cde5934aae0022f020464a6
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_40.png
   - fileID: 50
     classID: 28
     packedSize: 65644
-    offset: 2545112
+    offset: 1985456
     sourceAssetGUID: 1abfe0e165ca1e9428b455ffc9a2d9ef
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_2.png
   - fileID: 51
     classID: 28
     packedSize: 309208
-    offset: 2610760
+    offset: 2051104
     sourceAssetGUID: 1ca42e1c3cb54df4ebd6e6704a527d25
     buildTimeAssetPath: Assets/Imported/Models/Kitchen table with chair/Textures/ClassicKitchenChair2_m.png
   - fileID: 52
     classID: 28
     packedSize: 4204
-    offset: 2919968
+    offset: 2360312
     sourceAssetGUID: 1d6958e30e40a254dbe5a54c573eeb3c
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_37.png
   - fileID: 53
     classID: 28
     packedSize: 62120
-    offset: 2924176
+    offset: 2364520
     sourceAssetGUID: 1e0d41e0f0c39404da3b709f9c1ecd2f
     buildTimeAssetPath: Assets/Imported/Materials/WoodFloor042_1K-PNG/WoodFloor042_1K_AmbientOcclusion.png
   - fileID: 54
     classID: 28
     packedSize: 184272
-    offset: 2986296
+    offset: 2426640
     sourceAssetGUID: 21546a25b584c5047a08184b300200c2
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Textures/MetalTable_Normal.tga
   - fileID: 55
     classID: 28
     packedSize: 349664
-    offset: 3170568
+    offset: 2610912
     sourceAssetGUID: 2a2f709a85fb9604cb69ee3540c9d618
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeLowIcon.png
   - fileID: 56
     classID: 28
     packedSize: 159208
-    offset: 3520232
+    offset: 2960576
     sourceAssetGUID: 2c5a0da64cf195a45aaf15d13b548ca4
     buildTimeAssetPath: Assets/Imported/Models/Witches and Wizards Asset Pack/Textures/Book4
       Diffuse Colour.png
   - fileID: 57
     classID: 28
     packedSize: 162612
-    offset: 3679440
+    offset: 3119784
     sourceAssetGUID: 2cdbbeb780911dd49ad1dc94c0a3d46b
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Textures/RoundTable_BaseColor.tga
   - fileID: 58
     classID: 28
     packedSize: 271096
-    offset: 3842056
+    offset: 3282400
     sourceAssetGUID: 2d82b954c8fa37e4dadbd2bdc219ea2f
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Textures/RoundTable_mask.tga
   - fileID: 59
     classID: 28
     packedSize: 349656
-    offset: 4113152
+    offset: 3553496
     sourceAssetGUID: 2e770eb7fde325548bf15dea94681504
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/LockIcon.png
   - fileID: 60
     classID: 28
     packedSize: 4204
-    offset: 4462808
+    offset: 3903152
     sourceAssetGUID: 2ee161d8945169243b5698fec114e1b7
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_15.png
   - fileID: 61
     classID: 28
     packedSize: 4204
-    offset: 4467016
+    offset: 3907360
     sourceAssetGUID: 319b8e66db3faa4438cf6982e9c89b2f
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_34.png
   - fileID: 62
     classID: 28
     packedSize: 273008
-    offset: 4471224
+    offset: 3911568
     sourceAssetGUID: 31b6160a5f114d949af1abc451b5a0d1
     buildTimeAssetPath: Assets/Imported/Models/Kitchen table with chair/Textures/PlateWithFruit_m.png
   - fileID: 63
     classID: 28
     packedSize: 4204
-    offset: 4744232
+    offset: 4184576
     sourceAssetGUID: 32c6a5f7143b86c44bd5cdee2ff3f8ad
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_24.png
   - fileID: 64
     classID: 28
     packedSize: 4204
-    offset: 4748440
+    offset: 4188784
     sourceAssetGUID: 351e95d0e20a54849bd4ce5f9b498934
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_36.png
   - fileID: 65
     classID: 28
     packedSize: 4204
-    offset: 4752648
+    offset: 4192992
     sourceAssetGUID: 373f9bf6b0841af4ebf26d25e4a3f4e2
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_3.png
   - fileID: 66
     classID: 28
     packedSize: 4204
-    offset: 4756856
+    offset: 4197200
     sourceAssetGUID: 3ac02e7e783571c468f9c086d2384ba7
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_7.png
   - fileID: 67
     classID: 28
     packedSize: 4204
-    offset: 4761064
+    offset: 4201408
     sourceAssetGUID: 3c2f1fb7e4b66e74191b7c328ada52d9
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_1.png
   - fileID: 68
     classID: 28
     packedSize: 4204
-    offset: 4765272
+    offset: 4205616
     sourceAssetGUID: 3f7c3687170b90e4a8d2ee6b142670f4
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_49.png
   - fileID: 69
     classID: 28
     packedSize: 4204
-    offset: 4769480
+    offset: 4209824
     sourceAssetGUID: 404fa8def46b1c447817e1ebdaa7144e
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_60.png
   - fileID: 70
     classID: 28
     packedSize: 344980
-    offset: 4773688
+    offset: 4214032
     sourceAssetGUID: 455ec62d34be43b48a608247269560a6
     buildTimeAssetPath: Assets/Imported/Models/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_red_weathered_N.png
   - fileID: 71
     classID: 28
     packedSize: 51228
-    offset: 5118672
+    offset: 4559016
     sourceAssetGUID: 483de94ab798a9941ba146ac6b28e4a9
     buildTimeAssetPath: Assets/Imported/Models/JJ_InteriorDoorPack_V1/Textures/Knobs/intDoor_knob01_mat_doorKnob_Normal.png
   - fileID: 72
     classID: 28
     packedSize: 52044
-    offset: 5169904
+    offset: 4610248
     sourceAssetGUID: 495613b61ff45594c86240b115911207
     buildTimeAssetPath: Assets/Imported/Models/JJ_InteriorDoorPack_V1/Textures/Frames/intDoor_metalFrame_mat_intDoor_metalFrame_black_AlbedoTransparency.png
   - fileID: 73
     classID: 28
     packedSize: 4204
-    offset: 5221952
+    offset: 4662296
     sourceAssetGUID: 4a11d65ce13d5f542a0ff136cc2f3fba
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_63.png
   - fileID: 74
     classID: 28
     packedSize: 29276
-    offset: 5226160
+    offset: 4666504
     sourceAssetGUID: 4faad637e00ab96409330022f7e78c7f
     buildTimeAssetPath: Assets/Imported/Models/JJ_InteriorDoorPack_V1/Textures/Knobs/intDoor_knob01_mat_doorKnob_AlbedoTransparency.png
   - fileID: 75
     classID: 28
     packedSize: 4204
-    offset: 5255440
+    offset: 4695784
     sourceAssetGUID: 50b54341495978843a6f85583ed4417d
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_0.png
   - fileID: 76
     classID: 28
     packedSize: 67036
-    offset: 5259648
+    offset: 4699992
     sourceAssetGUID: 5367ac7fe08eda849986f039b1aaa993
     buildTimeAssetPath: Assets/Imported/Materials/WoodFloor042_1K-PNG/WoodFloor042_1K_Displacement.png
   - fileID: 77
     classID: 28
     packedSize: 153292
-    offset: 5326688
+    offset: 4767032
     sourceAssetGUID: 53bd68743b1b0f74db2a84c7f8ae6562
     buildTimeAssetPath: Assets/Imported/Materials/WoodFloor034_1K-PNG/WoodFloor034_1K_Displacement.png
   - fileID: 78
     classID: 28
     packedSize: 4204
-    offset: 5479984
+    offset: 4920328
     sourceAssetGUID: 547dbd5f858c74047ba3f213e4408307
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_39.png
   - fileID: 79
     classID: 28
     packedSize: 406016
-    offset: 5484192
+    offset: 4924536
     sourceAssetGUID: 58337ec4b6e30264a837e3493be5e397
     buildTimeAssetPath: Assets/Imported/Materials/Wood079_1K-PNG/Wood079_1K_NormalDX.png
   - fileID: 80
     classID: 28
     packedSize: 4204
-    offset: 5890208
+    offset: 5330552
     sourceAssetGUID: 5e542d0126a2c7848b66bffc428905fd
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_55.png
   - fileID: 81
     classID: 28
     packedSize: 65644
-    offset: 5894416
+    offset: 5334760
     sourceAssetGUID: 6017f374382d64245a0a4aab668e6f38
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_0.png
   - fileID: 82
     classID: 28
     packedSize: 174888
-    offset: 5960064
+    offset: 5400408
     sourceAssetGUID: 6344bf96fbda94141a525046d088fb23
     buildTimeAssetPath: Packages/com.unity.probuilder/Content/Resources/Textures/GridBox_Default.png
   - fileID: 83
     classID: 28
     packedSize: 345900
-    offset: 6134952
+    offset: 5575296
     sourceAssetGUID: 6557f27ea868d9044988cefb8baee8e1
     buildTimeAssetPath: Assets/Imported/Models/Witches and Wizards Asset Pack/Textures/Book4
       Diffuse Colour 1.png
   - fileID: 84
     classID: 28
     packedSize: 4204
-    offset: 6480856
+    offset: 5921200
     sourceAssetGUID: 68613e6a221be1a4b9f31d7fa1c2d1bf
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_13.png
   - fileID: 85
     classID: 28
     packedSize: 349664
-    offset: 6485064
+    offset: 5925408
     sourceAssetGUID: 699edcd6cfca9c14781e41a83a5f47ec
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeMuteIcon.png
   - fileID: 86
     classID: 28
-    packedSize: 1398248
-    offset: 6834728
+    packedSize: 284240
+    offset: 6275072
     sourceAssetGUID: 6a2276c66dd0fae49b85fd9d580fda30
     buildTimeAssetPath: Assets/Imported/Materials/WoodFloor034_1K-PNG/WoodFloor034_1K_NormalGL.png
   - fileID: 87
     classID: 28
     packedSize: 4204
-    offset: 8232976
+    offset: 6559312
     sourceAssetGUID: 6b0a189df0bd4d5448eaefb4e673ace8
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_31.png
   - fileID: 88
     classID: 28
     packedSize: 4204
-    offset: 8237184
+    offset: 6563520
     sourceAssetGUID: 6dda07f1420a968449cf4c6620c44d9f
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_20.png
   - fileID: 89
     classID: 28
     packedSize: 4204
-    offset: 8241392
+    offset: 6567728
     sourceAssetGUID: 6fa5cf178eaaa5f42b820f636bb6e0bd
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_4.png
   - fileID: 90
     classID: 28
     packedSize: 65644
-    offset: 8245600
+    offset: 6571936
     sourceAssetGUID: 70d0a1182b29d6347ac70374c3593bba
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_7.png
   - fileID: 91
     classID: 28
     packedSize: 4204
-    offset: 8311248
+    offset: 6637584
     sourceAssetGUID: 70f23eaf7d8ae9147aa542d20e93733b
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_56.png
   - fileID: 92
     classID: 28
     packedSize: 4204
-    offset: 8315456
+    offset: 6641792
     sourceAssetGUID: 71583cfd8899717428d5b1a95fa39cda
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_9.png
   - fileID: 93
     classID: 28
     packedSize: 4204
-    offset: 8319664
+    offset: 6646000
     sourceAssetGUID: 71bc1b6b66e8b784b972199b7e90204e
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_43.png
   - fileID: 94
     classID: 28
     packedSize: 4204
-    offset: 8323872
+    offset: 6650208
     sourceAssetGUID: 729a3ae164bcb3b4380459386adcf331
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_19.png
   - fileID: 95
     classID: 28
     packedSize: 268904
-    offset: 8328080
+    offset: 6654416
     sourceAssetGUID: 73ec4ae984a0a0f44a2be737e41a6f2f
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/SMAA/AreaTex.tga
   - fileID: 96
     classID: 28
     packedSize: 4204
-    offset: 8596984
+    offset: 6923320
     sourceAssetGUID: 74aca53eb7273624baffc2bf5e5cc173
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_18.png
   - fileID: 97
     classID: 28
     packedSize: 4204
-    offset: 8601192
+    offset: 6927528
     sourceAssetGUID: 771903fe7b4674445829e52e91cff019
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_11.png
   - fileID: 98
     classID: 28
     packedSize: 4204
-    offset: 8605400
+    offset: 6931736
     sourceAssetGUID: 79b86f3419b87f3429164a956da8cfab
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_6.png
   - fileID: 99
     classID: 28
     packedSize: 132248
-    offset: 8609608
+    offset: 6935944
     sourceAssetGUID: 7dbe8badf3b4a3949af6b50fefd0ee25
     buildTimeAssetPath: Assets/Imported/Materials/WoodFloor042_1K-PNG/WoodFloor042_1K_NormalDX.png
   - fileID: 100
     classID: 28
     packedSize: 4204
-    offset: 8741856
+    offset: 7068192
     sourceAssetGUID: 85a45a6d8b2ffb84987d2b028ecfb220
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_58.png
   - fileID: 101
     classID: 28
     packedSize: 4204
-    offset: 8746064
+    offset: 7072400
     sourceAssetGUID: 87a5e40cc271ea648b583616f6ebe7fe
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_32.png
   - fileID: 102
     classID: 28
     packedSize: 123324
-    offset: 8750272
+    offset: 7076608
     sourceAssetGUID: 88768fb049227ad43a63ab6b80d3b98f
     buildTimeAssetPath: Assets/Imported/Models/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_red_weathered_AT.png
   - fileID: 103
     classID: 28
     packedSize: 351540
-    offset: 8873600
+    offset: 7199936
     sourceAssetGUID: 88edae7faff09cd4492fcd83e23080dd
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Textures/2SeatD_Normal.tga
   - fileID: 104
     classID: 28
     packedSize: 302712
-    offset: 9225144
+    offset: 7551480
     sourceAssetGUID: 8d0cb26e8d9621643acd057903eba278
     buildTimeAssetPath: Assets/Imported/Models/Kitchen table with chair/Textures/PlateWithFruit_n.png
   - fileID: 105
     classID: 28
     packedSize: 4204
-    offset: 9527856
+    offset: 7854192
     sourceAssetGUID: 8ecbbcae4cc747a4abbc4adce795d25e
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_46.png
   - fileID: 106
     classID: 28
     packedSize: 1398248
-    offset: 9532064
+    offset: 7858400
     sourceAssetGUID: 8f0cc20e7899459449fdbafe0ae4e227
     buildTimeAssetPath: Assets/Scenes/StartingScene/Lightmap-0_comp_light.exr
   - fileID: 107
     classID: 28
     packedSize: 4204
-    offset: 10930312
+    offset: 9256648
     sourceAssetGUID: 936dea238abb0864ab3985a995e16a29
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_54.png
   - fileID: 108
     classID: 28
     packedSize: 191972
-    offset: 10934520
+    offset: 9260856
     sourceAssetGUID: 94985d936df4361439fa70f0f9f065b2
     buildTimeAssetPath: Assets/Imported/Models/Witches and Wizards Asset Pack/Textures/Wand1
       Diffuse Color.png
   - fileID: 109
     classID: 28
     packedSize: 164988
-    offset: 11126496
+    offset: 9452832
     sourceAssetGUID: 94d165fd178b70a4f85e555abcaa642d
     buildTimeAssetPath: Assets/Imported/Models/Kitchen table with chair/Textures/ClassicKitchenChair2_d.png
   - fileID: 110
     classID: 28
     packedSize: 4204
-    offset: 11291488
+    offset: 9617824
     sourceAssetGUID: 9660a4ca1ca8425408ac25c641932977
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_38.png
   - fileID: 111
     classID: 28
     packedSize: 4204
-    offset: 11295696
+    offset: 9622032
     sourceAssetGUID: 980acadb960f8424c94307ec0e585b4e
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_12.png
   - fileID: 112
     classID: 28
     packedSize: 65644
-    offset: 11299904
+    offset: 9626240
     sourceAssetGUID: 999434725cbc2be4eb54043b36efd4a8
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_6.png
   - fileID: 113
     classID: 28
     packedSize: 4204
-    offset: 11365552
+    offset: 9691888
     sourceAssetGUID: a03c400b0e3959f428ee99dfc6cfc263
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_62.png
   - fileID: 114
     classID: 28
     packedSize: 148380
-    offset: 11369760
+    offset: 9696096
     sourceAssetGUID: a18aa7b38d8427e4093771dfcdac7c9e
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Textures/3Seat2_BaseColor.tga
   - fileID: 115
     classID: 28
     packedSize: 4204
-    offset: 11518144
+    offset: 9844480
     sourceAssetGUID: a1ae041906217ae44a774d4ca139af50
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_5.png
   - fileID: 116
     classID: 28
     packedSize: 178500
-    offset: 11522352
+    offset: 9848688
     sourceAssetGUID: a2cb5d71a0c08fd4ab18a82a0fc3ba93
     buildTimeAssetPath: Assets/Imported/Models/JJ_InteriorDoorPack_V1/Textures/Frames/intDoor_metalFrame_mat_intDoor_metalFrame_black_MetallicSmoothness.png
   - fileID: 117
     classID: 28
     packedSize: 231892
-    offset: 11700856
+    offset: 10027192
     sourceAssetGUID: a453ecb69b696504bb4889cb995a681c
     buildTimeAssetPath: Assets/Imported/Models/Kitchen table with chair/Textures/PlateWithFruit_d.png
   - fileID: 118
     classID: 28
     packedSize: 4204
-    offset: 11932752
+    offset: 10259088
     sourceAssetGUID: a469f920b21fc7c4fb5b950917ce2fb2
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_2.png
   - fileID: 119
     classID: 28
     packedSize: 301524
-    offset: 11936960
+    offset: 10263296
     sourceAssetGUID: a891da5654c96e248a04b11fd0ed400b
     buildTimeAssetPath: Assets/Imported/Models/JJ_InteriorDoorPack_V1/Textures/Frames/intDoor_metalFrame_mat_intDoor_metalFrame_black_Normal.png
   - fileID: 120
     classID: 28
     packedSize: 4204
-    offset: 12238488
+    offset: 10564824
     sourceAssetGUID: aa80dc44aa4fe4c43bb9d51d90cf2958
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_29.png
   - fileID: 121
     classID: 28
     packedSize: 349656
-    offset: 12242696
+    offset: 10569032
     sourceAssetGUID: aba612f742b6fd54bad52ffb4cd44f99
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/LoopIcon.png
   - fileID: 122
     classID: 28
     packedSize: 65644
-    offset: 12592352
+    offset: 10918688
     sourceAssetGUID: acde5141d5f4f7a4188394bd52c4dc38
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_5.png
   - fileID: 123
     classID: 28
     packedSize: 4204
-    offset: 12658000
+    offset: 10984336
     sourceAssetGUID: afe1e502240079342a0a980484b6da8b
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_10.png
   - fileID: 124
     classID: 28
     packedSize: 4204
-    offset: 12662208
+    offset: 10988544
     sourceAssetGUID: aff59c63d25d43f4c938f248837c30fb
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_48.png
   - fileID: 125
     classID: 28
     packedSize: 349660
-    offset: 12666416
+    offset: 10992752
     sourceAssetGUID: b123dd9c318d33c469f08575ed5d0101
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/ReloadIcon.png
   - fileID: 126
     classID: 28
     packedSize: 4204
-    offset: 13016080
+    offset: 11342416
     sourceAssetGUID: b266511438fae724f9d3ce6bd26583e8
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_42.png
   - fileID: 127
     classID: 28
     packedSize: 65644
-    offset: 13020288
+    offset: 11346624
     sourceAssetGUID: b52d5033b68309943a2386c270a90f44
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_4.png
   - fileID: 128
     classID: 28
     packedSize: 4204
-    offset: 13085936
+    offset: 11412272
     sourceAssetGUID: b71bb466b71fd13449dd736f63caeb67
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_33.png
   - fileID: 129
     classID: 28
     packedSize: 4204
-    offset: 13090144
+    offset: 11416480
     sourceAssetGUID: b7f000750830ddb4bbc80065b9314ce9
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_21.png
   - fileID: 130
     classID: 28
     packedSize: 4204
-    offset: 13094352
+    offset: 11420688
     sourceAssetGUID: b9960364038cbfa4aa49d7b2032d3110
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_45.png
   - fileID: 131
     classID: 28
     packedSize: 349656
-    offset: 13098560
+    offset: 11424896
     sourceAssetGUID: bae40aa052ac7ed479e6d3444c2e5a75
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/PlayIcon.png
   - fileID: 132
     classID: 28
     packedSize: 4204
-    offset: 13448216
+    offset: 11774552
     sourceAssetGUID: bdd06fb88ef36ed4a85dd506352c2d80
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_27.png
   - fileID: 133
     classID: 28
     packedSize: 7644
-    offset: 13452424
+    offset: 11778760
     sourceAssetGUID: bebdd155285825b49873f435eba156c0
     buildTimeAssetPath: Assets/Imported/Materials/WoodFloor042_1K-PNG/WoodFloor042_1K_Metalness.png
   - fileID: 134
     classID: 28
     packedSize: 4204
-    offset: 13460072
+    offset: 11786408
     sourceAssetGUID: bf95b6fdc179b0e4f890c841406193fc
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_17.png
   - fileID: 135
     classID: 28
     packedSize: 292220
-    offset: 13464280
+    offset: 11790616
     sourceAssetGUID: bfa88983bd139804bb61a5d61e1f070b
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Textures/3Seat2_mask.tga
   - fileID: 136
     classID: 28
     packedSize: 4204
-    offset: 13756504
+    offset: 12082840
     sourceAssetGUID: bfe953600e8fb1849a804ee08ace7b4c
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_23.png
   - fileID: 137
     classID: 28
     packedSize: 65644
-    offset: 13760712
+    offset: 12087048
     sourceAssetGUID: c072b653e98a06e40857d76ca8c7eecd
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_3.png
   - fileID: 138
     classID: 28
     packedSize: 145160
-    offset: 13826360
+    offset: 12152696
     sourceAssetGUID: c223689ff00cdc644becd359dc48ce38
     buildTimeAssetPath: Assets/Imported/Models/Kitchen table with chair/Textures/ClassicRoundTable1_d.png
   - fileID: 139
     classID: 28
     packedSize: 171564
-    offset: 13971520
+    offset: 12297856
     sourceAssetGUID: c288e3f0d06e6164c9d9e9bf9d0c567e
     buildTimeAssetPath: Assets/Imported/Materials/WoodFloor034_1K-PNG/WoodFloor034_1K_Color.png
   - fileID: 140
     classID: 28
     packedSize: 80188
-    offset: 14143088
+    offset: 12469424
     sourceAssetGUID: c4a19202ee336114cb7c14c5c6fd225c
     buildTimeAssetPath: Assets/Imported/Materials/WoodFloor042_1K-PNG/WoodFloor042_1K_Roughness.png
   - fileID: 141
     classID: 28
     packedSize: 4204
-    offset: 14223280
+    offset: 12549616
     sourceAssetGUID: c55042318a938344ab23cd7f09dd0076
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_8.png
   - fileID: 142
     classID: 28
     packedSize: 151712
-    offset: 14227488
+    offset: 12553824
     sourceAssetGUID: c769d772c3e960b4cb4fde9b52101b27
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Textures/RoundTable_Normal.tga
   - fileID: 143
     classID: 28
     packedSize: 4204
-    offset: 14379200
+    offset: 12705536
     sourceAssetGUID: c94b57b5a32a22d43ade66e09f6a4bd2
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_53.png
   - fileID: 144
     classID: 28
     packedSize: 4204
-    offset: 14383408
+    offset: 12709744
     sourceAssetGUID: cd9006dc442cc244e89b3f492384d46a
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_41.png
   - fileID: 145
     classID: 28
     packedSize: 419036
-    offset: 14387616
+    offset: 12713952
     sourceAssetGUID: d20ade470976b154ea1f1eaab0b8831c
     buildTimeAssetPath: Assets/Imported/Models/Witches and Wizards Asset Pack/Textures/Wand1
       Diffuse Color 1.png
   - fileID: 146
     classID: 28
     packedSize: 349660
-    offset: 14806656
+    offset: 13132992
     sourceAssetGUID: d26a5d7f84a7ab54c937b98e631663a1
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/UnlockIcon.png
   - fileID: 147
     classID: 28
     packedSize: 4204
-    offset: 15156320
+    offset: 13482656
     sourceAssetGUID: d2e8e90fac2e6a341a38e1c3963c218d
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_52.png
   - fileID: 148
     classID: 28
     packedSize: 4204
-    offset: 15160528
+    offset: 13486864
     sourceAssetGUID: d5a51525b27e3ee4aadbeb39cbcf0750
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_51.png
   - fileID: 149
     classID: 28
     packedSize: 4204
-    offset: 15164736
+    offset: 13491072
     sourceAssetGUID: d8c290e38ff0425409d0ae6a98c95e41
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_50.png
   - fileID: 150
     classID: 28
     packedSize: 4204
-    offset: 15168944
+    offset: 13495280
     sourceAssetGUID: d96974690c77f50489eb60ec84bd8dac
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_59.png
   - fileID: 151
     classID: 28
     packedSize: 1132
-    offset: 15173152
+    offset: 13499488
     sourceAssetGUID: d99701099481a2f489610e977df6dcbc
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/SMAA/SearchTex.tga
   - fileID: 152
     classID: 28
     packedSize: 70356
-    offset: 15174288
+    offset: 13500624
     sourceAssetGUID: ddfaa0f7a22ed8e4fb26446ba8a80796
     buildTimeAssetPath: Assets/Imported/Models/JJ_InteriorDoorPack_V1/Textures/Knobs/intDoor_knob01_mat_doorKnob_MetallicSmoothness.png
   - fileID: 153
     classID: 28
     packedSize: 4204
-    offset: 15244648
+    offset: 13570984
     sourceAssetGUID: df01d03f056c6f445b4b8a0ae054207c
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_22.png
   - fileID: 154
     classID: 28
     packedSize: 4204
-    offset: 15248856
+    offset: 13575192
     sourceAssetGUID: e138166e7a7c70f49943be7edda35d35
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_57.png
   - fileID: 155
     classID: 28
     packedSize: 266456
-    offset: 15253064
+    offset: 13579400
     sourceAssetGUID: e529ab6846575444c8abcdcd06938b34
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Textures/MetalTable_mask.tga
   - fileID: 156
     classID: 28
     packedSize: 284
-    offset: 15519520
+    offset: 13845856
     sourceAssetGUID: e5b174a8d905de44d938cdd3adf85546
     buildTimeAssetPath: Assets/USharpVideo/Textures/BlackSwatch.png
   - fileID: 157
     classID: 28
     packedSize: 349656
-    offset: 15519808
+    offset: 13846144
     sourceAssetGUID: e6225dac30a73a347b7ff0bf743f639f
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/StopIcon.png
   - fileID: 158
     classID: 28
     packedSize: 198256
-    offset: 15869464
+    offset: 14195800
     sourceAssetGUID: e691e89a824a18243b512ad60b42be14
     buildTimeAssetPath: Assets/Imported/Materials/Wood079_1K-PNG/Wood079_1K_AmbientOcclusion.png
   - fileID: 159
     classID: 28
     packedSize: 275204
-    offset: 16067720
+    offset: 14394056
     sourceAssetGUID: e7a62a18c972ca44abc3148673336008
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Textures/3Seat2_Normal.tga
   - fileID: 160
     classID: 28
     packedSize: 1398244
-    offset: 16342928
+    offset: 14669264
     sourceAssetGUID: e83c74197a4c83b4a90241fb27648a67
     buildTimeAssetPath: Assets/Scenes/StartingScene/Lightmap-0_comp_dir.png
   - fileID: 161
     classID: 28
     packedSize: 190816
-    offset: 17741176
+    offset: 16067512
     sourceAssetGUID: e9406dba92af95c40a202df1d8b07325
     buildTimeAssetPath: Assets/Imported/Models/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_red_weathered_MS.png
   - fileID: 162
     classID: 28
     packedSize: 349664
-    offset: 17931992
+    offset: 16258328
     sourceAssetGUID: eb116d1688b9cac4fb160c69bd6e9690
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeOffIcon.png
   - fileID: 163
     classID: 28
     packedSize: 197812
-    offset: 18281656
+    offset: 16607992
     sourceAssetGUID: ec322fd5963e8974fbc52de2bb31d3d5
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Textures/2SeatD_BaseColor.tga
   - fileID: 164
     classID: 28
     packedSize: 349656
-    offset: 18479472
+    offset: 16805808
     sourceAssetGUID: f16a414e2d147a94ab3d8a9e5ad2e28e
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/InfoIcon.png
   - fileID: 165
     classID: 28
     packedSize: 297492
-    offset: 18829128
+    offset: 17155464
     sourceAssetGUID: f1a5056e552718a4098eb0df8e1ae215
     buildTimeAssetPath: Assets/Imported/Models/Kitchen table with chair/Textures/ClassicRoundTable1_m.png
   - fileID: 166
     classID: 28
     packedSize: 318796
-    offset: 19126624
+    offset: 17452960
     sourceAssetGUID: f1d33e39cf03d834ba5ac2aaf7260c9c
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Textures/2SeatD_mask.tga
   - fileID: 167
     classID: 28
     packedSize: 171648
-    offset: 19445424
+    offset: 17771760
     sourceAssetGUID: f288d145edb9f9d42a9ba40100b4e6f7
     buildTimeAssetPath: Assets/Imported/Materials/Wood079_1K-PNG/Wood079_1K_Roughness.png
   - fileID: 168
     classID: 28
     packedSize: 123956
-    offset: 19617072
+    offset: 17943408
     sourceAssetGUID: f2d48d9a0e8a600468cfa92f2ffb465f
     buildTimeAssetPath: Assets/Imported/Materials/WoodFloor034_1K-PNG/WoodFloor034_1K_AmbientOcclusion.png
   - fileID: 169
     classID: 28
     packedSize: 4204
-    offset: 19741032
+    offset: 18067368
     sourceAssetGUID: f4b8ab78b57749d4e96d36f6d8a395d0
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_25.png
   - fileID: 170
     classID: 28
     packedSize: 340956
-    offset: 19745240
+    offset: 18071576
     sourceAssetGUID: f5cfa26eec65d574f9402a1e7220785a
     buildTimeAssetPath: Assets/Imported/Models/Kitchen table with chair/Textures/ClassicKitchenChair2_n.png
   - fileID: 171
     classID: 28
     packedSize: 4204
-    offset: 20086200
+    offset: 18412536
     sourceAssetGUID: f6439b54b28f3884eb67579dec0b6f21
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_14.png
   - fileID: 172
     classID: 28
     packedSize: 173040
-    offset: 20090408
+    offset: 18416744
     sourceAssetGUID: fad0b722d51763a459ea3525233bd674
     buildTimeAssetPath: Assets/Imported/Materials/Wood079_1K-PNG/Wood079_1K_Color.png
   - fileID: 173
     classID: 43
-    packedSize: 61836
-    offset: 20263448
+    packedSize: 19224
+    offset: 18589784
     sourceAssetGUID: c4bf5ec91ea67e94fb25bfe2b9808275
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Mesh/RoundTable.fbx
   - fileID: 174
     classID: 43
     packedSize: 5376
-    offset: 20325288
+    offset: 18609008
     sourceAssetGUID: 218f82d5989bc2a41875ffbf40e9f3f6
     buildTimeAssetPath: Assets/Imported/Models/Azerilo/Free Rug Pack/Mesh/Rug.fbx
   - fileID: 175
     classID: 43
-    packedSize: 26736
-    offset: 20330664
+    packedSize: 20848
+    offset: 18614384
     sourceAssetGUID: 34844fab031efd7428463c208a0e841d
     buildTimeAssetPath: Assets/Imported/Models/Kitchen table with chair/Models/ClassicKitchenChair2.FBX
   - fileID: 176
     classID: 43
-    packedSize: 24204
-    offset: 20357400
+    packedSize: 7556
+    offset: 18635232
     sourceAssetGUID: 7f64fa277f063764fa867c869ab08563
     buildTimeAssetPath: Assets/Imported/Models/JJ_InteriorDoorPack_V1/Meshes/intDoor_knob01.fbx
   - fileID: 177
     classID: 43
-    packedSize: 9016
-    offset: 20381608
+    packedSize: 3456
+    offset: 18642792
     sourceAssetGUID: 8adf33b01c09d4cd48d7ca1248a39a26
     buildTimeAssetPath: Assets/Imported/Models/Dining Set/Meshes/porcelain/glassjar.fbx
   - fileID: 178
     classID: 43
-    packedSize: 13628
-    offset: 20390624
+    packedSize: 4488
+    offset: 18646248
     sourceAssetGUID: 9713f7d2e2861a545a062953fa2a2fb6
     buildTimeAssetPath: Assets/Imported/Models/Witches and Wizards Asset Pack/Models/Ladle.fbx
   - fileID: 179
     classID: 43
-    packedSize: 12684
-    offset: 20404256
+    packedSize: 3992
+    offset: 18650736
     sourceAssetGUID: a15ab0fb95184604fbcff36e6621610a
     buildTimeAssetPath: Assets/Imported/Models/JJ_InteriorDoorPack_V1/Meshes/intDoor_metalFrame.fbx
   - fileID: 180
     classID: 43
-    packedSize: 133316
-    offset: 20416944
+    packedSize: 104452
+    offset: 18654728
     sourceAssetGUID: cd5c017944fa8324387550344af1aa8f
     buildTimeAssetPath: Assets/Imported/Models/Kitchen table with chair/Models/PlateWithFruit.FBX
   - fileID: 181
     classID: 43
-    packedSize: 8780
-    offset: 20550264
+    packedSize: 2856
+    offset: 18759184
     sourceAssetGUID: f0d4298dcac2ffd499747abaa06977ee
     buildTimeAssetPath: Assets/Imported/Models/JJ_InteriorDoorPack_V1/Meshes/intDoor.fbx
   - fileID: 182
     classID: 43
-    packedSize: 23648
-    offset: 20559048
+    packedSize: 7800
+    offset: 18762040
     sourceAssetGUID: f3b8ca9afe1758d418f6b04dde2e4d08
     buildTimeAssetPath: Assets/Imported/Models/Witches and Wizards Asset Pack/Models/Book2.fbx
   - fileID: 183
     classID: 43
-    packedSize: 25700
-    offset: 20582696
+    packedSize: 8536
+    offset: 18769840
     sourceAssetGUID: 9713f7d2e2861a545a062953fa2a2fb6
     buildTimeAssetPath: Assets/Imported/Models/Witches and Wizards Asset Pack/Models/Ladle.fbx
   - fileID: 184
     classID: 43
-    packedSize: 37940
-    offset: 20608400
+    packedSize: 12836
+    offset: 18778376
     sourceAssetGUID: f3b8ca9afe1758d418f6b04dde2e4d08
     buildTimeAssetPath: Assets/Imported/Models/Witches and Wizards Asset Pack/Models/Book2.fbx
   - fileID: 185
     classID: 43
-    packedSize: 60884
-    offset: 20646344
+    packedSize: 21140
+    offset: 18791216
     sourceAssetGUID: f3b8ca9afe1758d418f6b04dde2e4d08
     buildTimeAssetPath: Assets/Imported/Models/Witches and Wizards Asset Pack/Models/Book2.fbx
   - fileID: 186
     classID: 43
-    packedSize: 75500
-    offset: 20707232
+    packedSize: 26160
+    offset: 18812360
     sourceAssetGUID: f3b8ca9afe1758d418f6b04dde2e4d08
     buildTimeAssetPath: Assets/Imported/Models/Witches and Wizards Asset Pack/Models/Book2.fbx
   - fileID: 187
     classID: 43
-    packedSize: 82988
-    offset: 20782736
+    packedSize: 28800
+    offset: 18838520
     sourceAssetGUID: f3b8ca9afe1758d418f6b04dde2e4d08
     buildTimeAssetPath: Assets/Imported/Models/Witches and Wizards Asset Pack/Models/Book2.fbx
   - fileID: 188
     classID: 43
-    packedSize: 88748
-    offset: 20865728
+    packedSize: 27476
+    offset: 18867320
     sourceAssetGUID: 63bb58ec56e49a94ca6f9dad8d73d9e2
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Mesh/Fotel4.fbx
   - fileID: 189
     classID: 43
-    packedSize: 49500
-    offset: 20954480
+    packedSize: 14924
+    offset: 18894800
     sourceAssetGUID: 1c77c68a06728d143a0320dfcc126c48
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Mesh/MetalTable.fbx
   - fileID: 190
     classID: 43
-    packedSize: 129320
-    offset: 21003984
+    packedSize: 40916
+    offset: 18909728
     sourceAssetGUID: fd8712e1a3b95bf408cf1bf15fb9a131
     buildTimeAssetPath: Assets/Imported/Models/Furniture/Source/Mesh/3Seat2.fbx
   - fileID: 191
     classID: 48
     packedSize: 509952
-    offset: 21133304
+    offset: 18950648
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 192
     classID: 48
     packedSize: 1128112
-    offset: 21643256
+    offset: 19460600
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 193
     classID: 48
     packedSize: 1661380
-    offset: 22771368
+    offset: 20588712
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 194
     classID: 48
     packedSize: 5480
-    offset: 24432752
+    offset: 22250096
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 195
     classID: 48
     packedSize: 21736
-    offset: 24438232
+    offset: 22255576
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 196
     classID: 48
     packedSize: 77172
-    offset: 24459968
+    offset: 22277312
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 197
     classID: 48
     packedSize: 82148
-    offset: 24537144
+    offset: 22354488
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 198
     classID: 48
     packedSize: 6052
-    offset: 24619296
+    offset: 22436640
     sourceAssetGUID: 02d2da9bc88d25c4d878c1ed4e0b3854
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/CopyStdFromTexArray.shader
   - fileID: 199
     classID: 48
     packedSize: 11512
-    offset: 24625352
+    offset: 22442696
     sourceAssetGUID: 0d8afcb51cc9f0349a6d190da929b838
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/GrainBaker.shader
   - fileID: 200
     classID: 48
     packedSize: 70628
-    offset: 24636864
+    offset: 22454208
     sourceAssetGUID: 0ef78d24e85a44f4da9d5b5eaa00e50b
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/DepthOfField.shader
   - fileID: 201
     classID: 48
     packedSize: 121620
-    offset: 24707496
+    offset: 22524840
     sourceAssetGUID: 1ccecd9b89b8a4f14bfb64f29ddfcc81
     buildTimeAssetPath: Packages/com.unity.probuilder/Content/Shader/StandardVertexColor.shader
   - fileID: 202
     classID: 48
     packedSize: 22384
-    offset: 24829120
+    offset: 22646464
     sourceAssetGUID: 2c459b89a7c8b1a4fbefe0d81341651c
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MotionBlur.shader
   - fileID: 203
     classID: 48
     packedSize: 4280
-    offset: 24851504
+    offset: 22668848
     sourceAssetGUID: 3020ac7ece79a7f4eb789a236f8bd6c5
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Waveform.shader
   - fileID: 204
     classID: 48
     packedSize: 7216
-    offset: 24855784
+    offset: 22673128
     sourceAssetGUID: 34a819c9e33402547a81619693adc8d5
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Texture2DLerp.shader
   - fileID: 205
     classID: 48
     packedSize: 4003880
-    offset: 24863000
+    offset: 22680344
     sourceAssetGUID: 382151503e2a43a4ebb7366d1632731d
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Uber.shader
   - fileID: 206
     classID: 48
     packedSize: 8068
-    offset: 28866880
+    offset: 26684224
     sourceAssetGUID: 4117fce9491711c4094d33a048e36e73
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/DeferredFog.shader
   - fileID: 207
     classID: 48
     packedSize: 568248
-    offset: 28874952
+    offset: 26692296
     sourceAssetGUID: 412ea878efbed224d97338aed34a773c
     buildTimeAssetPath: Assets/USharpVideo/Shaders/StandardVideoEmissive.shader
   - fileID: 208
     classID: 48
     packedSize: 6084
-    offset: 29443200
+    offset: 27260544
     sourceAssetGUID: 4bf4cff0d0bac3d43894e2e8839feb40
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/CopyStd.shader
   - fileID: 209
     classID: 48
     packedSize: 11120
-    offset: 29449288
+    offset: 27266632
     sourceAssetGUID: 51bcf79c50dc92e47ba87821b61100c3
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/TemporalAntialiasing.shader
   - fileID: 210
     classID: 48
     packedSize: 3848
-    offset: 29460408
+    offset: 27277752
     sourceAssetGUID: 5ab0816423f0dfe45841cab3b05ec9ef
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/DiscardAlpha.shader
   - fileID: 211
     classID: 48
     packedSize: 14444
-    offset: 29464256
+    offset: 27281600
     sourceAssetGUID: 67f9497810829eb4791ec19e95781e51
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVO.shader
   - fileID: 212
     classID: 48
     packedSize: 5672
-    offset: 29478704
+    offset: 27296048
     sourceAssetGUID: 693137b858e4dc64c83be531351f45e6
     buildTimeAssetPath: Assets/VRCSDK/Sample Assets/Shaders/Mirror.shader
   - fileID: 213
     classID: 48
     packedSize: 21728
-    offset: 29484376
+    offset: 27301720
     sourceAssetGUID: 7ad194cbe7d006f4bace915156972026
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Lut2DBaker.shader
   - fileID: 214
     classID: 48
     packedSize: 23968
-    offset: 29506104
+    offset: 27323448
     sourceAssetGUID: 81af42a93ade3dd46a9b583d4eec76d6
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/SubpixelMorphologicalAntialiasing.shader
   - fileID: 215
     classID: 48
     packedSize: 6164
-    offset: 29530072
+    offset: 27347416
     sourceAssetGUID: 9d61949da4bd1b545b4fdacba6dfb5da
     buildTimeAssetPath: Assets/USharpVideo/Shaders/UI-MerlinUI.shader
   - fileID: 216
     classID: 48
     packedSize: 4292
-    offset: 29536240
+    offset: 27353584
     sourceAssetGUID: a71093f2a4fe26a40805c22739e10e4a
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Vectorscope.shader
   - fileID: 217
     classID: 48
     packedSize: 15168
-    offset: 29540536
+    offset: 27357880
     sourceAssetGUID: b34a29e523cb9d545881e193a079f2df
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/LightMeter.shader
   - fileID: 218
     classID: 48
     packedSize: 26004
-    offset: 29555704
+    offset: 27373048
     sourceAssetGUID: b958ad1c92bd3d64c9e61318b8681dab
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Overlays.shader
   - fileID: 219
     classID: 48
     packedSize: 32708
-    offset: 29581712
+    offset: 27399056
     sourceAssetGUID: c1e1d3119c6fd4646aea0b4b74cacc1a
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Bloom.shader
   - fileID: 220
     classID: 48
     packedSize: 6740
-    offset: 29614424
+    offset: 27431768
     sourceAssetGUID: cdbdb71de5f9c454b980f6d0e87f0afb
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Copy.shader
   - fileID: 221
     classID: 48
     packedSize: 37124
-    offset: 29621168
+    offset: 27438512
     sourceAssetGUID: d7640629310e79646af0f46eb55ae466
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/ScalableAO.shader
   - fileID: 222
     classID: 48
     packedSize: 6112
-    offset: 29658296
+    offset: 27475640
     sourceAssetGUID: e8ce9961912f3214586fe8709b9012c1
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/CopyStdFromDoubleWide.shader
   - fileID: 223
     classID: 48
     packedSize: 105396
-    offset: 29664408
+    offset: 27481752
     sourceAssetGUID: f75014305794b3948a3c6d5ccd550e05
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/FinalPass.shader
   - fileID: 224
     classID: 48
     packedSize: 5128
-    offset: 29769808
+    offset: 27587152
     sourceAssetGUID: f7ea35cfb33fcad4ab8f2429ec103bef
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Histogram.shader
   - fileID: 225
     classID: 48
     packedSize: 19200
-    offset: 29774936
+    offset: 27592280
     sourceAssetGUID: f997a3dc9254c44459323cced085150c
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/ScreenSpaceReflections.shader
   - fileID: 226
     classID: 72
     packedSize: 1816
-    offset: 29794136
+    offset: 27611480
     sourceAssetGUID: 18183ebfeeab97749b43e38b928604a7
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Histogram.compute
   - fileID: 227
     classID: 72
     packedSize: 1456
-    offset: 29795952
+    offset: 27613296
     sourceAssetGUID: 31e9175024adfd44aba2530ff9b77494
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Texture3DLerp.compute
   - fileID: 228
     classID: 72
     packedSize: 95740
-    offset: 29797408
+    offset: 27614752
     sourceAssetGUID: 34845e0ca016b7448842e965db5890a5
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/AutoExposure.compute
   - fileID: 229
     classID: 72
     packedSize: 39828
-    offset: 29893152
+    offset: 27710496
     sourceAssetGUID: 34a460e8a2e66c243a9c12024e5a798d
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVORender.compute
   - fileID: 230
     classID: 72
     packedSize: 21116
-    offset: 29932984
+    offset: 27750328
     sourceAssetGUID: 42496b74c071f5749950ca1abe33e945
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Lut3DBaker.compute
   - fileID: 231
     classID: 72
     packedSize: 5048
-    offset: 29954104
+    offset: 27771448
     sourceAssetGUID: 4c63bc487e6c29a4a99f85a6c47b292b
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVODownsample1.compute
   - fileID: 232
     classID: 72
     packedSize: 92224
-    offset: 29959152
+    offset: 27776496
     sourceAssetGUID: 600d6212b59bb40409d19d750b5fd1e9
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVOUpsample.compute
   - fileID: 233
     classID: 72
     packedSize: 6436
-    offset: 30051376
+    offset: 27868720
     sourceAssetGUID: 6dba4103d23a7904fbc49099355aff3e
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/GaussianDownsample.compute
   - fileID: 234
     classID: 72
     packedSize: 1640
-    offset: 30057816
+    offset: 27875160
     sourceAssetGUID: 8c2fcbdf9bc58664f89917f7b9d79501
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/ExposureHistogram.compute
   - fileID: 235
     classID: 72
     packedSize: 1824
-    offset: 30059456
+    offset: 27876800
     sourceAssetGUID: 92c63830cd50c0b4fbb8233613839958
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Waveform.compute
   - fileID: 236
     classID: 72
     packedSize: 1944
-    offset: 30061280
+    offset: 27878624
     sourceAssetGUID: e1efca7c36fd01840aae0dd10378de5c
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Vectorscope.compute
   - fileID: 237
     classID: 72
     packedSize: 1960
-    offset: 30063224
+    offset: 27880568
     sourceAssetGUID: e4d3e4779e48a374f91d48d4c0aedb7b
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVODownsample2.compute
   - fileID: 238
     classID: 74
     packedSize: 2368
-    offset: 30065184
+    offset: 27882528
     sourceAssetGUID: ea8077da5766357479dd3ebf31da098c
     buildTimeAssetPath: Assets/USharpVideo/Animations/InterpTo0.anim
   - fileID: 239
     classID: 74
     packedSize: 2368
-    offset: 30067552
+    offset: 27884896
     sourceAssetGUID: 599105a1454742644906304ddb0562cd
     buildTimeAssetPath: Assets/USharpVideo/Animations/InterpTo1.anim
   - fileID: 240
     classID: 74
     packedSize: 2864
-    offset: 30069920
+    offset: 27887264
     sourceAssetGUID: 6b22cd66ca95bcd468f2f47441c00582
     buildTimeAssetPath: Assets/USharpVideo/Animations/ReloadRotate.anim
   - fileID: 241
     classID: 83
     packedSize: 180
-    offset: 30072784
+    offset: 27890128
     sourceAssetGUID: 5caa446814337e6499c4aaa138479b38
     buildTimeAssetPath: Assets/Imported/Sound Effects/178433_thavis360_writing-with-chalk-chalkboard.wav
   - fileID: 242
     classID: 83
-    packedSize: 164
-    offset: 30072968
-    sourceAssetGUID: 6c8ff37c814e0bc4da242f4bc6476d0c
-    buildTimeAssetPath: Assets/Imported/Sound Effects/588335_iainmccurdy_turning-pages.wav
-  - fileID: 243
-    classID: 83
     packedSize: 168
-    offset: 30073136
+    offset: 27890312
     sourceAssetGUID: 78c1fd618864d0349a9fd834ec210cb7
     buildTimeAssetPath: Assets/Imported/Sound Effects/365713_mc-minnaar_ice-cubes-in-glass.wav
-  - fileID: 244
+  - fileID: 243
     classID: 83
     packedSize: 184
-    offset: 30073304
+    offset: 27890480
     sourceAssetGUID: 7bcbee25f6ed8854bb45ee180f1e396e
     buildTimeAssetPath: Assets/Imported/Sound Effects/531947__straget__the-rain-falls-against-the-parasol.wav
+  - fileID: 244
+    classID: 83
+    packedSize: 164
+    offset: 27890664
+    sourceAssetGUID: f44d03dbca63df44f96cdfa20db938f5
+    buildTimeAssetPath: Assets/Imported/Sound Effects/588335_iainmccurdy_turning-pages.mp3
   - fileID: 245
     classID: 89
     packedSize: 131424
-    offset: 30073488
+    offset: 27890832
     sourceAssetGUID: 1e88cb1644a42e14c8b8e2ee0e1ec6bb
     buildTimeAssetPath: Assets/Scenes/StartingScene/ReflectionProbe-0.exr
   - fileID: 246
     classID: 89
     packedSize: 8388964
-    offset: 30204912
+    offset: 28022256
     sourceAssetGUID: fc166e5d8907bfa46b88e6861546751f
     buildTimeAssetPath: Assets/Imported/satara_night_no_lamps_2k.exr
   - fileID: 247
     classID: 91
     packedSize: 840
-    offset: 38593880
+    offset: 36411224
     sourceAssetGUID: 3508d1b4f8de760439c5a1dd8cebf4f6
     buildTimeAssetPath: Assets/USharpVideo/Animations/ReloadButton.controller
   - fileID: 248
     classID: 91
     packedSize: 1232
-    offset: 38594720
+    offset: 36412064
     sourceAssetGUID: 43d010a9dfd9d934db896b3ca4f95eeb
     buildTimeAssetPath: Assets/USharpVideo/Animations/SliderController.controller
   - fileID: 249
@@ -1949,216 +1944,221 @@ PackedAssets:
   - fileID: 287
     classID: 213
     packedSize: 624
-    offset: 38595952
+    offset: 36413296
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 288
     classID: 213
     packedSize: 568
-    offset: 38596576
+    offset: 36413920
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 289
     classID: 213
     packedSize: 572
-    offset: 38597144
+    offset: 36414488
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 290
     classID: 213
     packedSize: 580
-    offset: 38597720
+    offset: 36415064
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 291
     classID: 213
     packedSize: 1288
-    offset: 38598304
+    offset: 36415648
     sourceAssetGUID: 062a26ce01cb86642a4a5e558355d208
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/PauseIcon.png
   - fileID: 292
     classID: 213
     packedSize: 1764
-    offset: 38599592
+    offset: 36416936
     sourceAssetGUID: 0b57367304e0c224fab0e9eef953ee44
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeHighIcon.png
   - fileID: 293
     classID: 213
     packedSize: 1320
-    offset: 38601360
+    offset: 36418704
     sourceAssetGUID: 2a2f709a85fb9604cb69ee3540c9d618
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeLowIcon.png
   - fileID: 294
     classID: 213
     packedSize: 1912
-    offset: 38602680
+    offset: 36420024
     sourceAssetGUID: 2e770eb7fde325548bf15dea94681504
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/LockIcon.png
   - fileID: 295
     classID: 213
     packedSize: 1180
-    offset: 38604592
+    offset: 36421936
     sourceAssetGUID: 699edcd6cfca9c14781e41a83a5f47ec
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeMuteIcon.png
   - fileID: 296
     classID: 213
     packedSize: 1068
-    offset: 38605776
+    offset: 36423120
     sourceAssetGUID: aba612f742b6fd54bad52ffb4cd44f99
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/LoopIcon.png
   - fileID: 297
     classID: 213
     packedSize: 1652
-    offset: 38606848
+    offset: 36424192
     sourceAssetGUID: b123dd9c318d33c469f08575ed5d0101
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/ReloadIcon.png
   - fileID: 298
     classID: 213
     packedSize: 1816
-    offset: 38608504
+    offset: 36425848
     sourceAssetGUID: bae40aa052ac7ed479e6d3444c2e5a75
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/PlayIcon.png
   - fileID: 299
     classID: 213
     packedSize: 1572
-    offset: 38610320
+    offset: 36427664
     sourceAssetGUID: d26a5d7f84a7ab54c937b98e631663a1
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/UnlockIcon.png
   - fileID: 300
     classID: 213
     packedSize: 1144
-    offset: 38611896
+    offset: 36429240
     sourceAssetGUID: e6225dac30a73a347b7ff0bf743f639f
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/StopIcon.png
   - fileID: 301
     classID: 213
     packedSize: 1024
-    offset: 38613040
+    offset: 36430384
     sourceAssetGUID: eb116d1688b9cac4fb160c69bd6e9690
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/VolumeOffIcon.png
   - fileID: 302
     classID: 213
     packedSize: 4732
-    offset: 38614064
+    offset: 36431408
     sourceAssetGUID: f16a414e2d147a94ab3d8a9e5ad2e28e
     buildTimeAssetPath: Assets/USharpVideo/UI/Feather/InfoIcon.png
   - fileID: 303
     classID: 258
     packedSize: 97004
-    offset: 38618800
+    offset: 36436144
     sourceAssetGUID: 757a116302fd97f49a5888fcc3ab458d
     buildTimeAssetPath: Assets/Scenes/StartingScene/LightingData.asset
   - fileID: 304
     classID: 114
     packedSize: 88
-    offset: 38715808
+    offset: 36533152
     sourceAssetGUID: 46f4772fef1876e4a89139d7f69d4857
     buildTimeAssetPath: Assets/Post Processing/SilentProfile.asset
   - fileID: 305
     classID: 114
     packedSize: 37680
-    offset: 38715896
+    offset: 36533240
     sourceAssetGUID: 2cf7df5e5b70a194f9dc79bad8ca850a
     buildTimeAssetPath: Assets/SerializedUdonPrograms/0cfd2b8f0262db847bfb55bab92d3218.asset
   - fileID: 306
     classID: 114
     packedSize: 72924
-    offset: 38753576
+    offset: 36570920
     sourceAssetGUID: 1ba35953f1914414fb71b194fa05a26e
     buildTimeAssetPath: Assets/SerializedUdonPrograms/1e90e65c11b3fae4c90c1b55d4472db7.asset
   - fileID: 307
     classID: 114
     packedSize: 53344
-    offset: 38826504
+    offset: 36643848
     sourceAssetGUID: 0aa62f91569f81948afccb024781828e
     buildTimeAssetPath: Assets/SerializedUdonPrograms/358a98096f2187c4eb0cee20115d2f3a.asset
   - fileID: 308
     classID: 114
     packedSize: 15372
-    offset: 38879848
+    offset: 36697192
     sourceAssetGUID: 448bb1b7bd752384b988c19945632864
     buildTimeAssetPath: Assets/SerializedUdonPrograms/4715e20276be3b141a6a216230cab4e9.asset
   - fileID: 309
     classID: 114
     packedSize: 15548
-    offset: 38895224
+    offset: 36712568
     sourceAssetGUID: 58f1740a605bf34458254f1de34885f7
     buildTimeAssetPath: Assets/SerializedUdonPrograms/553f0db2752ead24590f8ac2e1f80c06.asset
   - fileID: 310
     classID: 114
     packedSize: 192424
-    offset: 38910776
+    offset: 36728120
     sourceAssetGUID: 7cb9c08e44c7f0e4f937621155e8676f
     buildTimeAssetPath: Assets/SerializedUdonPrograms/7021d3ad08c81d54c8598190c706a0c5.asset
   - fileID: 311
     classID: 114
     packedSize: 644016
-    offset: 39103200
+    offset: 36920544
     sourceAssetGUID: 19547230e77c2754596b098eeb124c76
     buildTimeAssetPath: Assets/SerializedUdonPrograms/71ad2ba2c082d724bbdda2d8ddd47a32.asset
   - fileID: 312
     classID: 114
     packedSize: 11692
-    offset: 39747216
+    offset: 37564560
     sourceAssetGUID: 4021efe4eb254c0448f4cbab541f7932
     buildTimeAssetPath: Assets/SerializedUdonPrograms/882a690b65fa6fe44a4921a5eec7248e.asset
   - fileID: 313
     classID: 114
     packedSize: 26440
-    offset: 39758912
+    offset: 37576256
     sourceAssetGUID: 970de817ed9d1f844976688e25acaca0
     buildTimeAssetPath: Assets/SerializedUdonPrograms/9cad5f38b03778e4a90cd04e507f8576.asset
   - fileID: 314
     classID: 114
     packedSize: 18864
-    offset: 39785352
+    offset: 37602696
     sourceAssetGUID: d07813ed1675f5d4181b45db64a4d5f9
     buildTimeAssetPath: Assets/SerializedUdonPrograms/b0c60135ec3e09e4796af91290498d4b.asset
   - fileID: 315
     classID: 114
     packedSize: 17068
-    offset: 39804216
+    offset: 37621560
     sourceAssetGUID: ab2e10271c34fd44a9fd9bd7880ab4c9
     buildTimeAssetPath: Assets/SerializedUdonPrograms/c8df303ceb45ae84f85a11591f741734.asset
   - fileID: 316
     classID: 114
     packedSize: 26712
-    offset: 39821288
+    offset: 37638632
     sourceAssetGUID: a84d1758b7cad3e40a0c8a9e8ca908f4
     buildTimeAssetPath: Assets/SerializedUdonPrograms/cdeaa82e9eeca4249860474b074fefa2.asset
   - fileID: 317
     classID: 114
     packedSize: 10508
-    offset: 39848000
+    offset: 37665344
     sourceAssetGUID: 53a8d68a530b7b0438f3e47c0eff7675
     buildTimeAssetPath: Assets/SerializedUdonPrograms/dfe739bda2f5e9f438753d88fa866b2f.asset
   - fileID: 318
     classID: 114
     packedSize: 296
-    offset: 39858512
+    offset: 37675856
     sourceAssetGUID: 55106727684a20b48a170c471208dd4a
     buildTimeAssetPath: Assets/USharpVideo/Styles/Default.asset
   - fileID: 319
     classID: 114
     packedSize: 1380
-    offset: 39858808
+    offset: 37676152
     sourceAssetGUID: d82512f9c8e5d4a4d938b575d47f88d4
     buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/PostProcessResources.asset
   - fileID: 320
     classID: 114
     packedSize: 156
-    offset: 39860192
+    offset: 37677536
     sourceAssetGUID: 46f4772fef1876e4a89139d7f69d4857
     buildTimeAssetPath: Assets/Post Processing/SilentProfile.asset
   - fileID: 321
     classID: 114
     packedSize: 116
-    offset: 39860352
+    offset: 37677696
     sourceAssetGUID: 46f4772fef1876e4a89139d7f69d4857
     buildTimeAssetPath: Assets/Post Processing/SilentProfile.asset
   - fileID: 322
     classID: 114
     packedSize: 4984
-    offset: 39860472
+    offset: 37677816
     sourceAssetGUID: 46f4772fef1876e4a89139d7f69d4857
     buildTimeAssetPath: Assets/Post Processing/SilentProfile.asset
+--- !u!641289076 &6341641535737481717
+AudioBuildInfo:
+  m_IsAudioDisabled: 0
+  m_AudioClipCount: 4
+  m_AudioMixerCount: 0
