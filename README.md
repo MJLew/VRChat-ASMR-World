@@ -25,10 +25,12 @@ Imported the following assets:
 - Classic Interior Door Pack: https://assetstore.unity.com/packages/3d/props/interior/classic-interior-door-pack-1-118744
 - Furniture Free Pack: https://assetstore.unity.com/packages/3d/props/furniture/furniture-free-pack-192628
 - Rug Pack: https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178
-- Glasses: https://assetstore.unity.com/packages/3d/props/industrial/hd-glass-pack-95520
+- Glass Pitcher: https://assetstore.unity.com/packages/3d/props/interior/dining-set-37029
+- Witchcraft and Wizardry Asset Set: https://assetstore.unity.com/packages/3d/props/free-witchcraft-and-wizardry-asset-pack-141428
 
 - Rain Background Noise by straget: https://freesound.org/people/straget/sounds/531947/
 - Ice Stirring in glass by MC_Minnaar: https://freesound.org/people/MC_Minnaar/sounds/365713/
 - Writing with Chalk by thavis360: https://freesound.org/people/thavis360/sounds/178433/
+- Turning Pages: https://freesound.org/people/iainmccurdy/sounds/588335/
 
 - USharp Video Player: https://github.com/MerlinVR/USharpVideo/releases/tag/v1.0.0

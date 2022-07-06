@@ -21,10 +21,11 @@ Imported the following assets:
 - AllSky Skybox Set: https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014#description
 - Satara Night HDRI: https://polyhaven.com/a/satara_night_no_lamps
 
-- Table with Chairs: https://assetstore.unity.com/packages/3d/props/furniture/table-with-chairs-x3-free-101246#description
-- Classic Interior Door Pack: https://assetstore.unity.com/packages/3d/props/interior/classic-interior-door-pack-1-118744#description
-- Furniture Free Pack: https://assetstore.unity.com/packages/3d/props/furniture/furniture-free-pack-192628#description
-- Rug Pack: https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178#description
+- Table with Chairs: https://assetstore.unity.com/packages/3d/props/furniture/table-with-chairs-x3-free-101246
+- Classic Interior Door Pack: https://assetstore.unity.com/packages/3d/props/interior/classic-interior-door-pack-1-118744
+- Furniture Free Pack: https://assetstore.unity.com/packages/3d/props/furniture/furniture-free-pack-192628
+- Rug Pack: https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178
+- Glasses: https://assetstore.unity.com/packages/3d/props/industrial/hd-glass-pack-95520
 
 - Rain Background Noise by straget: https://freesound.org/people/straget/sounds/531947/
 - Ice Stirring in glass by MC_Minnaar: https://freesound.org/people/MC_Minnaar/sounds/365713/
